@@ -1,0 +1,6 @@
+a = 2
+b = 3 
+If a < b:
+   print ("a is smaller then b")
+else:
+   Print ("a is greater then b"
