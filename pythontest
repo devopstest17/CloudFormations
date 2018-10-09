@@ -1,4 +1,4 @@
-a = 2
+a = 5
 b = 3 
 If a < b:
    print ("a is smaller then b")
